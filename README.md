@@ -49,23 +49,6 @@ Windows OS provides the `SetWindowDisplayAffinity` API to exclude windows from s
 
 ---
 
-## 🏗️ Building from Source
-
-To compile VeilCast yourself and generate the professional setup executable:
-
-### Prerequisites
-* .NET 9.0 SDK
-* Inno Setup 7 (for generating the installer)
-
-### Build Pipeline
-Run the included PowerShell pipeline to automatically clean, build, and package the application:
-```powershell
-.\publish.ps1
-```
-Your compiled binaries and setup installer will be placed in the `dist/` directory.
-
----
-
 <div align="center">
   <i>Developed with ❤️ for extreme privacy and professional environments.</i>
 </div>
