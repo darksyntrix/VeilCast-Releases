@@ -3,7 +3,7 @@
   <h1>VeilCast 🛡️</h1>
   <p><strong>The Ultimate Privacy Shield for Windows Screen Sharing</strong></p>
 
-  [![Version](https://img.shields.io/badge/Version-1.1.0-8B5CF6.svg?style=for-the-badge)](https://darksyntrix.pages.dev/)
+  [![Version](https://img.shields.io/badge/Version-1.1.1-8B5CF6.svg?style=for-the-badge)](https://darksyntrix.pages.dev/)
   [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-0078D4.svg?style=for-the-badge&logo=windows)](https://microsoft.com)
   [![License](https://img.shields.io/badge/License-Proprietary-red.svg?style=for-the-badge)](LICENSE)
 </div>
@@ -28,9 +28,8 @@
 
 ### Installation
 
-1. Download the **VeilCast Professional Installer** (`VeilCast_v1.1.0_Setup.exe`) from the Releases section.
-2. Follow the setup wizard to install VeilCast on your system.
-3. The installer will automatically configure VeilCast to launch with Administrator privileges (required for thread injection).
+1. Download the **VeilCast Professional Installer** (`VeilCast_v1.1.1_Setup.exe`) from the Releases section.
+2. Follow the setup wizard to quietly install VeilCast on your system without requiring Administrator privileges.
 
 ### Usage Guide
 
