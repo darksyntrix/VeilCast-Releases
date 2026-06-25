@@ -29,7 +29,7 @@
 ### Installation
 
 1. Download the **VeilCast Professional Installer** (`VeilCast_v1.1.2_Setup.exe`) from the Releases section.
-2. Follow the setup wizard to quietly install VeilCast on your system without requiring Administrator privileges.
+2. Follow the setup wizard to install VeilCast on your system. Administrator privileges are required for the core privacy features to function.
 
 ### Usage Guide
 
